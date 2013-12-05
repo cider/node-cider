@@ -1,0 +1,11 @@
+{
+  "name": "cider-examples",
+  "version": "0.0.1",
+  "author": "Ondrej Kupka <ondra.cap@gmail.com>",
+  "description": "Cider examples",
+  "dependencies": {
+    "cider": "git+https://github.com/tchap/node-cider",
+    "cider-zmq": "git+https://github.com/tchap/node-cider-zmq"
+  },
+  "licence": "MIT"
+}
